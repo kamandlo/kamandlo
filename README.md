@@ -6,7 +6,7 @@ I'm a DevOps engineer<br>My GitHub repository serves as a showcase of my ongoing
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amirmohamadkamandlo) 
 
 # 💻 Tech Stack:
-### Linux
+[Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) [Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=Ansible)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kamandlo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kamandlo&theme=dark&hide_border=false)<br/>
