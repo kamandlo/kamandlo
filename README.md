@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a software developer and DevOps specialist with a keen interest in open source projects. My experience with various technologies and my passion for learning new tools and methodologies have always driven me towards professional growth.
+I am a Programmer and DevOps specialist with a keen interest in open source projects. My experience with various technologies and my passion for learning new tools and methodologies have always driven me towards professional growth.
 
 ### Interests and Expertise
 
