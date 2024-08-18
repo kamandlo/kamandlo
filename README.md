@@ -1,4 +1,4 @@
-# Hello, I'm Amirmohamad Kamandlo 👋
+# Hello, I'm Amirmohammad Kamandlo  👋
 
 ## About Me
 
