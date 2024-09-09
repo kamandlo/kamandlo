@@ -1,5 +1,19 @@
-# Hello, I'm Amirmohammad Kamandlo  👋
+# 🐧 Linux is Life Style 
 
+```python
+# This isn't just code. This is a way of living.
+class LifeStyle:
+    def __init__(self):
+        self.system = "Linux"
+        self.mindset = "Open Source"
+    
+    def embrace(self):
+        return f"{self.system} is not just an OS, it's a {self.mindset} lifestyle."
+
+my_life = LifeStyle()
+print(my_life.embrace())
+
+```
 ## About Me
 
 I am a Programmer and DevOps specialist with a keen interest in open source projects. My experience with various technologies and my passion for learning new tools and methodologies have always driven me towards professional growth.
