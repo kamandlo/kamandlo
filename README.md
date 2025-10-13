@@ -20,7 +20,7 @@ I am a Programmer and DevOps specialist with a keen interest in open source proj
 
 ### Interests and Expertise
 
-- 📦 **DevOps:** Proficient in Docker, Kubernetes, CI/CD, and infrastructure management using tools like Terraform and Ansible.
+- 📦 **DevOps:** Proficient in Docker, CI/CD, and infrastructure management using tools like Ansible.
 - 🛠 **Programming:** Skilled in Python and Shell Scripting.
 - 🚀 **Open Source Projects:** Enthusiastic about contributing to open source projects and sharing knowledge and experiences.
 
